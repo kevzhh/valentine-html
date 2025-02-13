@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hari Valentine</title>
+  <style>
+    body {
+      background-color: #ff99cc; /* Warna latar belakang */
+      font-family: Arial, sans-serif; /* Jenis font */
+    }
+    .container {
+      width: 80%; /* Lebar kontainer */
+      margin: 40px auto; /* Jarak kontainer dari atas dan samping */
+      background-color: #ffffff; /* Warna latar belakang kontainer */
+      padding: 20px; /* Jarak antara konten dan tepi kontainer */
+      border: 1px solid #ff69b4; /* Garis tepi kontainer */
+      border-radius: 10px; /* Sudut kontainer */
+    }
+    .judul {
+      font-size: 36px; /* Ukuran font judul */
+      color: #ff69b4; /* Warna font judul */
+      text-align: center; /* Posisi judul */
+    }
+    .isi {
+      font-size: 18px; /* Ukuran font isi */
+      color: #666666; /* Warna font isi */
+      text-align: center; /* Posisi isi */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="judul">Selamat Hari Valentine!</h1>
+    <p class="isi">Semoga hari ini menjadi hari yang spesial untukmu dan orang yang kamu cintai.</p>
+  </div>
+</body>
+</html>
